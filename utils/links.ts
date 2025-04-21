@@ -3,7 +3,7 @@ type NavLinks = {
   label: string
 }
 
-export const links: NavLink[] = [
+export const links: NavLinks[] = [
   { href: '/', label: 'home' },
   { href: '/about', label: 'about' },
   { href: '/products', label: 'products' },
